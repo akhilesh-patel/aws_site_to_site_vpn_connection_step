@@ -94,6 +94,9 @@ customer_public_ip aws_vgw_public_ip: PSK "shared secret"
            $ service ipsec start
            $ service ipsec status
            
+           
+    ## TUNNEL STATUS
+           
     
 
 
