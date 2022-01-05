@@ -93,4 +93,9 @@ customer_public_ip aws_vgw_public_ip: PSK "shared secret"
            $ chkconfig ipsec on
            $ service ipsec start
            $ service ipsec status
+           
+    
 
+
+
+![Screenshot (849)](https://user-images.githubusercontent.com/64592542/148192088-d61a1b38-c1d0-4a8e-af4d-d38d13482cff.png)
