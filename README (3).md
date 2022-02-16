@@ -3,7 +3,7 @@
 # aws site to side vpn connection steps
 
 # step 1 
-create to vpc one -in  mumbai and another is singapore(customner end)
+create to vpc one -in  mumbai and another is singapore(customer end)
 
 # step 2 
 create on linux machine in both the vpc but region instance disable public ip 
